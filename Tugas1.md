@@ -1,11 +1,10 @@
-Topik Penelitian: 
-Penerapan Analisis Prediktif Pada Optimalisasi Sistem Manajemen Persediaan Dengan Data Menggunakan Metode Forecasting
+# Pengembangan Sistem Prediksi Penjualan dan Persediaan Barang Dengan Teknik Analisis Deret Waktu 
 
-Persoalan Praktis:
+## Persoalan Praktis:
 - Bagaimana cara mengoptimalkan permintaan masa depan berdasarkan data histori yang dapat merencanakan stok produk dengan lebih baik dan menghindari kelebihan atau kekurangan stok?
 - Bagaimana cara pengambilan keputusan berbasis data dalam merancanakan tindakan permintaan stok yang diinginkan? 
 
-Teori Terkait:
+## Teori Terkait:
 - Pengoptimalan Sistem Manajemen Persedian:
 Teori yang berkaitan dengan proses merancang, mengelola, dan mengatur persediaan barang untuk meningkatkan efisiensi dan operasional dalam memenuhi kebutuhan pelanggan dengan lebih baik.
 - Analisis prediktif: 
