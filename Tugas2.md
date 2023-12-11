@@ -2,13 +2,13 @@
 
 ## Metode
 
-- The rise of 3D Printing entangled with smart computer aided design during COVID-19 era [https://www.sciencedirect.com/science/article/pii/S0278612520301783]
-- A Review of Moldflow and Finite Element Analysis Simulation of Chip Scale Packaging (CSP) for Light Emitting Diode (LED) [https://semarakilmu.com.my/journals/index.php/fluid_mechanics_thermal_sciences/article/view/769]
+- Prediction of Tide level by using Holtz-Winters Exponential Smoothing: Case study in Cilacap Bay (https://ieeexplore.ieee.org/document/9212920)
+- Optimal Short-Term Forecasting Using GA-Based Holt-Winters Method (https://ieeexplore.ieee.org/document/8978638)
 
 ## Methodology
 
-- DMME: Data mining methodology for engineering applications – a holistic extension to the CRISP-DM model [https://www.sciencedirect.com/science/article/pii/S2212827119302239]
-- Analyzing the Behaviour of Applying Agile Methodologies & DevOps Culture in e-Commerce Web Application [https://ieeexplore.ieee.org/abstract/document/9142895] 
+- Design of subsidized fertilizer prediction information system with safety stock methodology wheel slip (https://iopscience.iop.org/article/10.1088/1757-899X/1098/5/052095/meta)
+- Optimizing stock assessment workflows by applying software development methodology (https://www.sciencedirect.com/science/article/abs/pii/S0165783621002368)
 
 # Perbedaan Metode dan Methodology
 
