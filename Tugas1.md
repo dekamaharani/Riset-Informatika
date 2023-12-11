@@ -1,13 +1,13 @@
-# Pengembangan Sistem Prediksi Penjualan dan Persediaan Barang Dengan Teknik Analisis Deret Waktu 
+# Pengembangan Sistem Prediksi Persediaan Barang Dengan Teknik Analisis Deret Waktu 
 
 ## Persoalan Praktis:
-- Bagaimana cara mengoptimalkan permintaan masa depan berdasarkan data histori yang dapat merencanakan stok produk dengan lebih baik dan menghindari kelebihan atau kekurangan stok?
+- Bagaimana metode yang dapat diterapkan untuk meningkatkan kebutuhan di masa mendatang dengan menggunakan informasi berdasarkan data historis sehingga perencanaan persediaan barang menjadi lebih efisien, dan mengurangi risiko kelebihan atau kekurangan stok?
 - Bagaimana cara pengambilan keputusan berbasis data dalam merancanakan tindakan permintaan stok yang diinginkan? 
 
 ## Teori Terkait:
-- Pengoptimalan Sistem Manajemen Persedian:
-Teori yang berkaitan dengan proses merancang, mengelola, dan mengatur persediaan barang untuk meningkatkan efisiensi dan operasional dalam memenuhi kebutuhan pelanggan dengan lebih baik.
+- Pengoptimalan Sistem Manajemen Persediaan:
+Teori yang terkait dengan pengelolaan persediaan barang dengan serangkaian proses yang dirancang untuk mengatur stok barang secara efisien guna memperbaiki operasional dan memenuhi kebutuhan konsumen dengan lebih baik. Ini melibatkan langkah-langkah strategis seperti merencanakan kebutuhan persediaan, manajemen stok, pemantauan inventaris, dan strategi pengadaan yang bertujuan untuk menjaga ketersediaan produk secara optimal tanpa meningkatkan biaya atau risiko kelebihan stok. 
 - Analisis prediktif: 
-Teori yang berkaitan dengan pendekatan analitik yang menggunakan data, statistik, dan algoritma dalam membuat keputusan yang lebih baik berdasarkan pemahaman mendalam tentang data histori. 
+Teori terkait mencakup pendekatan analitis yang memanfaatkan data, statistik, dan algoritma dalam memperbaiki kualitas pengambilan keputusan dengan berdasarkan pemahaman mendalam tentang data historis. Ini melibatkan penggunaan metode ilmiah dan matematis untuk menganalisis data dari data historis guna memprediksi, merencanakan, dan membuat keputusan yang lebih cerdas di masa depan. 
 - Metode Forecasting:
-Teori yang berkaitan dengan penggunaan algoritma prediksi, seperti regresi linier untuk mengidentifikasi pola dalam data histori guna memprediksi permintaan produk.
+Teori yang berkaitan dengan penggunaan algoritma prediksi, seperti triple exponential smoothing untuk mengoptimalkan permintaan masa depan, penting untuk memanfaatkan data historis secara efektif guna merencanakan stok produk dengan lebih tepat. Dengan menganalisis pola dan tren dari data historis dan memahami perilaku permintaan yang telah terjadi, dapat melakukan prediksi yang lebih tepat, dan mengurangi risiko kerugian karena kelebihan atau kekurangan stok.
