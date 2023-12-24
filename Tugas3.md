@@ -1,4 +1,4 @@
-# Paper Metode dan Methodology
+# Referensi Jurnal Metode dan Methodology
 
 ## Metode
 
